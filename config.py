@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'milkoko07'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'milkokobot'
+Trans_OAUTH             = 'oauth:64gjkxxb2intk8n0z98zktzbr596vd'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -13,7 +13,7 @@ Trans_TextColor         = 'GoldenRod'
 lang_TransToHome        = 'ja'
 lang_HomeToOther        = 'en'
 
-Show_ByName             = True
+Show_ByName             = false
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
