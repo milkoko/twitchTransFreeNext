@@ -1,9 +1,8 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
-
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Twitch_Channel          = milkoko07
+Trans_Username          = milkoko07
+Trans_OAUTH             = oauth:0kgov6k37o8svqf6j8sqii3ehd11ww
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
